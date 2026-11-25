@@ -6,7 +6,7 @@ Writes a single line (at most 200 characters) to $MAKEFUN_OUTPUT_DIR/entry.txt.
 import os
 from pathlib import Path
 
-LINE = "Sorry I dropped at the killer reveal - I saw who did it before you did and panicked; nobody should face that plot twist without a buffering circle to scream into."
+LINE = "Sorry I dropped at the killer reveal - I peeked at the ending, saw who did it, and panicked; nobody should face that plot twist without a buffering circle to scream into."
 MAX_CHARS = 200
 
 
